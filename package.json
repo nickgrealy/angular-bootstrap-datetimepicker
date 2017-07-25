@@ -20,7 +20,7 @@
   "homepage": "http://dalelotts.github.io/angular-bootstrap-datetimepicker",
   "main": "index.js",
   "style": "src/css/datetimepicker.css",
-  "scss": "src/scss/datetimepicker.scss",
+  "sass": "src/scss/datetimepicker.scss",
   "dependencies": {
     "angular": "^1.6.4",
     "moment": "^2.18.1"
